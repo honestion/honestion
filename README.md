@@ -8,4 +8,4 @@
 
 📫 How to reach me: second2secue at gmail dot com
 
-⚡ Fun fact: I'm learning greek language, history and geography
+⚡ Fun fact: I'm learning greek language, greek history and greek geography
