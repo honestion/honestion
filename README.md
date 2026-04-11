@@ -10,7 +10,7 @@
 
 ###🎯 My long-term Goals
 - 🏛️ To study at **Aristotle University of Thessaloniki (AUTH)**
-- <img src="https://github.com/honestion/honestion/assets/python_logo.png" width="20" style="vertical-align: middle;"> To become a professional **Python Backend Developer**
+- 🐍 To become a professional **Python Backend Developer**
 
 ###⚡ Fun Fact
 - 🇬🇷 I'm deeply interested in Greece: currently learning the **Greek language**, history, and geography.
