@@ -10,7 +10,7 @@
 
 ###🎯 My long-term Goals
 - 🏛️ To study at **Aristotle University of Thessaloniki (AUTH)**
-- <img src="https://image.spreadshirtmedia.net/image-server/v1/mp/products/T1457A339MPA3861PT17X11Y22D173950669FS3337/views/1,width=200,height=200,appearanceId=339,backgroundColor=FFFFFF,modelId=2906,crop=design/python-logo-vector_poster.jpg" alt="Python Emoji" width="20" height="20" style="vertical-align: middle;"/> To become a professional **Python Backend Developer**
+- <img src="assets/python_logo.jpg,width=200,height=200,appearanceId=339,backgroundColor=FFFFFF,modelId=2906,crop=design/python-logo-vector_poster.jpg" alt="Python Emoji" width="20" height="20" style="vertical-align: middle;"/> To become a professional **Python Backend Developer**
 
 ###⚡ Fun Fact
 - 🇬🇷 I'm deeply interested in Greece: currently learning the **Greek language**, history, and geography.
