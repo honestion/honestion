@@ -16,4 +16,4 @@
 - 🇬🇷 I'm deeply interested in Greece: currently learning the **Greek language**, history, and geography.
 
 ### 📫 How to reach me:
-  second2secue at gmail dot com
+- second2secue at gmail dot com
