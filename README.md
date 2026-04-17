@@ -1,6 +1,6 @@
 ## Hi, I'm Maksim Z. (aka @honestion) 👋
 
-### **✔️Finished:**
+### **✔️ Finished:**
 - CS50P Problem Set 2 (Loops and logic)
 ### **🔭 Currently working on:** 
 - CS50P Problem Set 3 (Exceptions)
