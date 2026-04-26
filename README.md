@@ -1,9 +1,9 @@
 ## Hi, I'm Maksim Z. (aka @honestion) 👋
 
 ### **✔️ Finished:**
-- CS50P Problem Set 2 (Loops and logic)
+- CS50P Problem Set 4 (Libriaries)
 ### **🔭 Currently working on:** 
-- CS50P Problem Set 3 (Exceptions)
+- CS50P Problem Set 5 (Unit tests)
 
 ### 🌱 Currently Learning:
 - **Course:** CS50's Introduction to Programming with Python(https://cs50.harvard.edu/python/) 
