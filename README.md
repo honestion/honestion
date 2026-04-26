@@ -1,4 +1,4 @@
-## Hi, I'm Maksim Z. (aka @honestion) 👋
+## Hi, I'm Maksim Z. (@honestion) 👋
 
 ### **✔️ Finished:**
 - CS50P Problem Set 4 (Libriaries)
