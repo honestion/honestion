@@ -13,7 +13,7 @@
 - 🐍 To become a professional **Python Backend Developer**
 
 ### ⚡ Fun Fact
-- 🇬🇷 I'm deeply interested in Greece: currently learning the **Greek language**, history, and geography.
+- 🇬🇷 I'm deeply interested in Greece: currently learning the **Greek language** and history.
 
 ### 📫 How to reach me:
 - second2secue at gmail dot com
