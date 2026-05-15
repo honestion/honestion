@@ -1,9 +1,9 @@
 ## Hi, I'm Maksim Z. (@honestion) 👋
 
 ### **✔️ Finished:**
-- CS50P Problem Set 6 (File I/O)
-### **🔭 Currently working on:** 
 - CS50P Problem Set 7 (Regular Expressions)
+### **🔭 Currently working on:** 
+- CS50P Problem Set 8 (OOP)
 
 ### 🌱 Currently Learning:
 - **Course:** CS50's Introduction to Programming with Python(https://cs50.harvard.edu/python/) 
